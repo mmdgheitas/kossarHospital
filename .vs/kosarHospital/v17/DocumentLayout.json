@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\programming\\StudioProjects\\kosarHospital\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E018C3C-52E5-44BB-8DAB-B28D69A4D082}|kosarHospital.csproj|e:\\programming\\studioprojects\\kosarhospital\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E018C3C-52E5-44BB-8DAB-B28D69A4D082}|kosarHospital.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E018C3C-52E5-44BB-8DAB-B28D69A4D082}|kosarHospital.csproj|e:\\programming\\studioprojects\\kosarhospital\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E018C3C-52E5-44BB-8DAB-B28D69A4D082}|kosarHospital.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E018C3C-52E5-44BB-8DAB-B28D69A4D082}|kosarHospital.csproj|e:\\programming\\studioprojects\\kosarhospital\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E018C3C-52E5-44BB-8DAB-B28D69A4D082}|kosarHospital.csproj|solutionrelative:views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E018C3C-52E5-44BB-8DAB-B28D69A4D082}|kosarHospital.csproj|e:\\programming\\studioprojects\\kosarhospital\\views\\home\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E018C3C-52E5-44BB-8DAB-B28D69A4D082}|kosarHospital.csproj|solutionrelative:views\\home\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E018C3C-52E5-44BB-8DAB-B28D69A4D082}|kosarHospital.csproj|e:\\programming\\studioprojects\\kosarhospital\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E018C3C-52E5-44BB-8DAB-B28D69A4D082}|kosarHospital.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E018C3C-52E5-44BB-8DAB-B28D69A4D082}|kosarHospital.csproj|e:\\programming\\studioprojects\\kosarhospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E018C3C-52E5-44BB-8DAB-B28D69A4D082}|kosarHospital.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E018C3C-52E5-44BB-8DAB-B28D69A4D082}|kosarHospital.csproj|e:\\programming\\studioprojects\\kosarhospital\\models\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E018C3C-52E5-44BB-8DAB-B28D69A4D082}|kosarHospital.csproj|solutionrelative:models\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E018C3C-52E5-44BB-8DAB-B28D69A4D082}|kosarHospital.csproj|e:\\programming\\studioprojects\\kosarhospital\\views\\home\\login_singin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E018C3C-52E5-44BB-8DAB-B28D69A4D082}|kosarHospital.csproj|solutionrelative:views\\home\\login_singin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E018C3C-52E5-44BB-8DAB-B28D69A4D082}|kosarHospital.csproj|e:\\programming\\studioprojects\\kosarhospital\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E018C3C-52E5-44BB-8DAB-B28D69A4D082}|kosarHospital.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E018C3C-52E5-44BB-8DAB-B28D69A4D082}|kosarHospital.csproj|e:\\programming\\studioprojects\\kosarhospital\\models\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E018C3C-52E5-44BB-8DAB-B28D69A4D082}|kosarHospital.csproj|solutionrelative:models\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Time.cs",
+              "DocumentMoniker": "E:\\programming\\StudioProjects\\kosarHospital\\Models\\Time.cs",
+              "RelativeDocumentMoniker": "Models\\Time.cs",
+              "ToolTip": "E:\\programming\\StudioProjects\\kosarHospital\\Models\\Time.cs",
+              "RelativeToolTip": "Models\\Time.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T07:00:26.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\programming\\StudioProjects\\kosarHospital\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "E:\\programming\\StudioProjects\\kosarHospital\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T07:00:26.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "profile.cshtml",
+              "DocumentMoniker": "E:\\programming\\StudioProjects\\kosarHospital\\Views\\Home\\profile.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\profile.cshtml",
+              "ToolTip": "E:\\programming\\StudioProjects\\kosarHospital\\Views\\Home\\profile.cshtml",
+              "RelativeToolTip": "Views\\Home\\profile.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAADUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T07:00:26.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\programming\\StudioProjects\\kosarHospital\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\programming\\StudioProjects\\kosarHospital\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEIAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T07:00:26.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\programming\\StudioProjects\\kosarHospital\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\programming\\StudioProjects\\kosarHospital\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T07:00:26.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "login_singin.cshtml",
+              "DocumentMoniker": "E:\\programming\\StudioProjects\\kosarHospital\\Views\\Home\\login_singin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\login_singin.cshtml",
+              "ToolTip": "E:\\programming\\StudioProjects\\kosarHospital\\Views\\Home\\login_singin.cshtml",
+              "RelativeToolTip": "Views\\Home\\login_singin.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T07:00:26.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\programming\\StudioProjects\\kosarHospital\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "E:\\programming\\StudioProjects\\kosarHospital\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAcwHgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T07:00:26.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DB.cs",
+              "DocumentMoniker": "E:\\programming\\StudioProjects\\kosarHospital\\Models\\DB.cs",
+              "RelativeDocumentMoniker": "Models\\DB.cs",
+              "ToolTip": "E:\\programming\\StudioProjects\\kosarHospital\\Models\\DB.cs",
+              "RelativeToolTip": "Models\\DB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T07:00:26.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\programming\\StudioProjects\\kosarHospital\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\programming\\StudioProjects\\kosarHospital\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAD0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T07:00:26.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "E:\\programming\\StudioProjects\\kosarHospital\\Views\\Home\\Index1.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index1.cshtml",
+              "ToolTip": "E:\\programming\\StudioProjects\\kosarHospital\\Views\\Home\\Index1.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index1.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T07:00:26.466Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+﻿@{
+    Layout = "_Layout";
+}
+@model User
+
+    @section Links{
+    <!-- font---------------------------------------->
+    <link rel="stylesheet" href="~/theme/css/vendor/font-awesome.min.css">
+    <link rel="stylesheet" href="~/theme/css/vendor/materialdesignicons.css">
+    <!-- plugin-------------------------------------->
+    <link rel="stylesheet" href="~/theme/css/vendor/bootstrap.css">
+    <link rel="stylesheet" href="~/theme/css/vendor/owl.carousel.min.css">
+    <link rel="stylesheet" href="~/theme/css/vendor/noUISlider.min.css">
+    <link rel="stylesheet" href="~/theme/css/vendor/nice-select.css">
+    <!-- main-style---------------------------------->
+    <link rel="stylesheet" href="~/theme/css/main.css">
+    <link rel="stylesheet" href="~/theme/css/responsive.css">
+    }
+
+
+
+<!-- Modal -->
+<!-- profile------------------------------->
+<div class="container-main">
+    <div class="d-block">
+        <section class="profile-home">
+            <div class="col-lg">
+                <div class="post-item-profile order-1 d-block">
+                    <div class="col-lg-3 col-md-3 col-xs-12 pr">
+                        <div class="sidebar-profile sidebar-navigation">
+                            <section class="profile-box">
+                                <header class="profile-box-header-inline">
+                                    <div class="profile-avatar user-avatar profile-img">
+                                        <img src="~/theme/images/man.png">
+                                    </div>
+                                </header>
+                                <footer class="profile-box-content-footer">
+                                    @* <span class="profile-box-nameuser">@ViewBag.h.UserName </span> *@
+                                    <br />
+
+                                    @* <span class="profile-box-phone">شماره همراه : @ViewBag.h.mobile</span> *@
+                                    <div class="profile-box-tabs">
+                                        <a asp-action="logout" class="profile-box-tab-sign-out">
+                                            <i class="mdi mdi-logout-variant"></i>خروج از حساب
+                                        </a>
+                                    </div>
+                                </footer>
+                            </section>
+                            <section class="profile-box">
+                                <ul class="profile-account-navs">
+                                    <li class="profile-account-nav-item navigation-link-dashboard">
+                                        <form asp-action="search">
+                                            <input type="text" name="data" style="border:solid 2px;" />
+                                            <button type="submit">search</button>
+                                        </form>
+                                    </li>
+                                </ul>
+                            </section>
+                        </div>
+                    </div>
+                    <div class="col-lg-9 col-md-9 col-xs-12 pl">
+                        <div class="profile-content">
+                            <div class="profile-stats">
+                                <form asp-action="reserve">
+                                    <input hidden name="user" value="@Model"/>
+                                    <table class="table table-profile">
+                                        <tbody>
+                                            <tr>
+                                                <th>
+                                                    <h3>علت مراجعه</h3>
+                                                </th>
+                                                <th>
+                                                    <h3>نام دکتر</h3>
+                                                </th>
+                                                <th>
+                                                    <h3>تاریخ</h3>
+                                                </th>
+                                                <td></td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <input type="text" name="detail" style="border:solid 2px;" />
+                                                </td>
+                                                <td>
+                                                    <input class="number-email-input" type="text" name="doctorName" style="border:solid 2px;" />
+                                                </td>
+                                                <td>
+                                                    <input type="datetime-local" name="date" />
+                                                </td>
+                                                <td>
+                                                    <button type="submit">رزرو</button>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </form>
+                                <div class="profile">
+                                   @*  <ul class="mb-0">
+                                        <li class="profile-item">
+                                            <div class="title">نام و نام خانوادگی:</div>
+                                            <div class="value">@ViewBag.h.name @ViewBag.h.family </div>
+                                        </li>
+                                        <li class="profile-item">
+                                            <div class="title">پست الکترونیک :</div>
+                                            <div class="value">@ViewBag.h.Email</div>
+                                        </li>
+                                        <li class="profile-item">
+                                            <div class="title">شماره تلفن همراه:</div>
+                                            <div class="value">@ViewBag.h.mobile</div>
+                                        </li>
+                                    </ul> *@
+                                </div>
+                                <div class="profile-edit-action">
+                                    @if (ViewBag.error != "کاربری با این کد ملی یافت نشد")
+                                    {
+                                        <table class="table table-profile">
+                                            <tbody>
+                                                <tr>
+                                                    <th>
+                                                        <h3>علت مراجعه</h3>
+                                                    </th>
+                                                    <th>
+                                                        <h3>نام دکتر</h3>
+                                                    </th>
+                                                    <th>
+                                                        <h3>تاریخ</h3>
+                                                    </th>
+                                                </tr>
+                                                @foreach (var i in Model.times)
+                                                {
+                                                    <tr>
+                                                        <td>
+                                                            <h5>@i.detail</h5>
+                                                        </td>
+                                                        <td>
+                                                            <h5>@i.doctorName</h5>
+                                                        </td>
+                                                        <td>
+                                                            <h5>@i.date</h5>
+                                                        </td>
+
+                                                    </tr>
+                                                }
+                                            </tbody>
+                                        </table>
+                                    }
+                                    else
+                                    {
+                                        <p>@ViewBag.error</p>
+                                    }
+                                   
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</div>
+<!-- profile------------------------------->
