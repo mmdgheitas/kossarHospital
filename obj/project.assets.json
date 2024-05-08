@@ -2961,11 +2961,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\programming\\StudioProjects\\kosarHospital\\kosarHospital.csproj",
+      "projectUniqueName": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\kosarHospital.csproj",
       "projectName": "kosarHospital",
-      "projectPath": "E:\\programming\\StudioProjects\\kosarHospital\\kosarHospital.csproj",
+      "projectPath": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\kosarHospital.csproj",
       "packagesPath": "C:\\Users\\mmd\\.nuget\\packages\\",
-      "outputPath": "E:\\programming\\StudioProjects\\kosarHospital\\obj\\",
+      "outputPath": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

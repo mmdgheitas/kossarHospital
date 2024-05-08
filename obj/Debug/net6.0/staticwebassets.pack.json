@@ -1,1787 +1,1787 @@
 {
   "Files": [
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\kosarHospital.bundle.scp.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\kosarHospital.bundle.scp.css",
       "PackagePath": "staticwebassets\\kosarHospital.bundle.scp.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\css\\404.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\css\\404.css",
       "PackagePath": "staticwebassets\\assets\\css\\404.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\css\\cursor.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\css\\cursor.css",
       "PackagePath": "staticwebassets\\assets\\css\\cursor.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\css\\design.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\css\\design.css",
       "PackagePath": "staticwebassets\\assets\\css\\design.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\css\\education.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\css\\education.css",
       "PackagePath": "staticwebassets\\assets\\css\\education.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\css\\event.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\css\\event.css",
       "PackagePath": "staticwebassets\\assets\\css\\event.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\css\\experience.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\css\\experience.css",
       "PackagePath": "staticwebassets\\assets\\css\\experience.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\css\\home.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\css\\home.css",
       "PackagePath": "staticwebassets\\assets\\css\\home.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\css\\hover-min.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\css\\hover-min.css",
       "PackagePath": "staticwebassets\\assets\\css\\hover-min.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\css\\preloader.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\css\\preloader.css",
       "PackagePath": "staticwebassets\\assets\\css\\preloader.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\css\\project.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\css\\project.css",
       "PackagePath": "staticwebassets\\assets\\css\\project.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\css\\references.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\css\\references.css",
       "PackagePath": "staticwebassets\\assets\\css\\references.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\css\\research.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\css\\research.css",
       "PackagePath": "staticwebassets\\assets\\css\\research.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\css\\sem_temp.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\css\\sem_temp.css",
       "PackagePath": "staticwebassets\\assets\\css\\sem_temp.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\css\\style.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\css\\style.css",
       "PackagePath": "staticwebassets\\assets\\css\\style.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\css\\techstack.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\css\\techstack.css",
       "PackagePath": "staticwebassets\\assets\\css\\techstack.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\css\\travel_temp.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\css\\travel_temp.css",
       "PackagePath": "staticwebassets\\assets\\css\\travel_temp.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\custom_illustrations\\1.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\custom_illustrations\\1.svg",
       "PackagePath": "staticwebassets\\assets\\custom_illustrations\\1.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\custom_illustrations\\2.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\custom_illustrations\\2.svg",
       "PackagePath": "staticwebassets\\assets\\custom_illustrations\\2.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\custom_illustrations\\Project Section (1).png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\custom_illustrations\\Project Section (1).png",
       "PackagePath": "staticwebassets\\assets\\custom_illustrations\\Project Section (1).png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\custom_illustrations\\Project Section.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\custom_illustrations\\Project Section.png",
       "PackagePath": "staticwebassets\\assets\\custom_illustrations\\Project Section.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\docs\\john_doe.pdf",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\docs\\john_doe.pdf",
       "PackagePath": "staticwebassets\\assets\\docs\\john_doe.pdf"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\fonts\\Agustina.woff",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\fonts\\Agustina.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\Agustina.woff"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\fonts\\FontsFree-Net-ir_sans.ttf",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\fonts\\FontsFree-Net-ir_sans.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\FontsFree-Net-ir_sans.ttf"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\icons\\arrow-right\\arrow-right-circle.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\icons\\arrow-right\\arrow-right-circle.svg",
       "PackagePath": "staticwebassets\\assets\\icons\\arrow-right\\arrow-right-circle.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\Hand.gif",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\Hand.gif",
       "PackagePath": "staticwebassets\\assets\\images\\Hand.gif"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\John-Doe.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\John-Doe.png",
       "PackagePath": "staticwebassets\\assets\\images\\John-Doe.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\John-Doe1.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\John-Doe1.png",
       "PackagePath": "staticwebassets\\assets\\images\\John-Doe1.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\dark_mode.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\dark_mode.png",
       "PackagePath": "staticwebassets\\assets\\images\\dark_mode.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\designs\\hero.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\designs\\hero.svg",
       "PackagePath": "staticwebassets\\assets\\images\\designs\\hero.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\designs\\mockups\\1.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\designs\\mockups\\1.svg",
       "PackagePath": "staticwebassets\\assets\\images\\designs\\mockups\\1.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\designs\\mockups\\2.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\designs\\mockups\\2.svg",
       "PackagePath": "staticwebassets\\assets\\images\\designs\\mockups\\2.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\designs\\mockups\\3.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\designs\\mockups\\3.svg",
       "PackagePath": "staticwebassets\\assets\\images\\designs\\mockups\\3.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\designs\\mockups\\4.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\designs\\mockups\\4.svg",
       "PackagePath": "staticwebassets\\assets\\images\\designs\\mockups\\4.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\designs\\mockups\\5.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\designs\\mockups\\5.svg",
       "PackagePath": "staticwebassets\\assets\\images\\designs\\mockups\\5.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\designs\\mockups\\6.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\designs\\mockups\\6.svg",
       "PackagePath": "staticwebassets\\assets\\images\\designs\\mockups\\6.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\designs\\mockups\\7.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\designs\\mockups\\7.svg",
       "PackagePath": "staticwebassets\\assets\\images\\designs\\mockups\\7.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\designs\\mockups\\8.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\designs\\mockups\\8.svg",
       "PackagePath": "staticwebassets\\assets\\images\\designs\\mockups\\8.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\designs\\ui_ux\\1.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\designs\\ui_ux\\1.svg",
       "PackagePath": "staticwebassets\\assets\\images\\designs\\ui_ux\\1.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\designs\\ui_ux\\2.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\designs\\ui_ux\\2.svg",
       "PackagePath": "staticwebassets\\assets\\images\\designs\\ui_ux\\2.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\designs\\ui_ux\\3.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\designs\\ui_ux\\3.svg",
       "PackagePath": "staticwebassets\\assets\\images\\designs\\ui_ux\\3.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\designs\\ui_ux\\4.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\designs\\ui_ux\\4.svg",
       "PackagePath": "staticwebassets\\assets\\images\\designs\\ui_ux\\4.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\designs\\ui_ux\\5.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\designs\\ui_ux\\5.svg",
       "PackagePath": "staticwebassets\\assets\\images\\designs\\ui_ux\\5.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\designs\\ui_ux\\6.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\designs\\ui_ux\\6.svg",
       "PackagePath": "staticwebassets\\assets\\images\\designs\\ui_ux\\6.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\designs\\ui_ux\\7.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\designs\\ui_ux\\7.svg",
       "PackagePath": "staticwebassets\\assets\\images\\designs\\ui_ux\\7.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\designs\\ui_ux\\8.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\designs\\ui_ux\\8.svg",
       "PackagePath": "staticwebassets\\assets\\images\\designs\\ui_ux\\8.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\dp_female.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\dp_female.svg",
       "PackagePath": "staticwebassets\\assets\\images\\dp_female.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\dp_male.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\dp_male.svg",
       "PackagePath": "staticwebassets\\assets\\images\\dp_male.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\education-page\\badge1.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\education-page\\badge1.png",
       "PackagePath": "staticwebassets\\assets\\images\\education-page\\badge1.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\education-page\\badge2.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\education-page\\badge2.png",
       "PackagePath": "staticwebassets\\assets\\images\\education-page\\badge2.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\education-page\\badge3.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\education-page\\badge3.png",
       "PackagePath": "staticwebassets\\assets\\images\\education-page\\badge3.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\education-page\\c1.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\education-page\\c1.png",
       "PackagePath": "staticwebassets\\assets\\images\\education-page\\c1.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\education-page\\c2.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\education-page\\c2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\education-page\\c2.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\education-page\\c3.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\education-page\\c3.png",
       "PackagePath": "staticwebassets\\assets\\images\\education-page\\c3.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\education-page\\c4.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\education-page\\c4.png",
       "PackagePath": "staticwebassets\\assets\\images\\education-page\\c4.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\education-page\\c5.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\education-page\\c5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\education-page\\c5.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\education-page\\coursera2.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\education-page\\coursera2.svg",
       "PackagePath": "staticwebassets\\assets\\images\\education-page\\coursera2.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\education-page\\data-science.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\education-page\\data-science.svg",
       "PackagePath": "staticwebassets\\assets\\images\\education-page\\data-science.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\education-page\\edTimeline1.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\education-page\\edTimeline1.png",
       "PackagePath": "staticwebassets\\assets\\images\\education-page\\edTimeline1.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\education-page\\edTimeline2.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\education-page\\edTimeline2.png",
       "PackagePath": "staticwebassets\\assets\\images\\education-page\\edTimeline2.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\education-page\\edTimeline3.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\education-page\\edTimeline3.png",
       "PackagePath": "staticwebassets\\assets\\images\\education-page\\edTimeline3.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\education-page\\education.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\education-page\\education.png",
       "PackagePath": "staticwebassets\\assets\\images\\education-page\\education.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\education-page\\edx.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\education-page\\edx.svg",
       "PackagePath": "staticwebassets\\assets\\images\\education-page\\edx.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\education-page\\header-female.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\education-page\\header-female.svg",
       "PackagePath": "staticwebassets\\assets\\images\\education-page\\header-female.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\education-page\\header-male.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\education-page\\header-male.svg",
       "PackagePath": "staticwebassets\\assets\\images\\education-page\\header-male.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\education-page\\problem-solving.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\education-page\\problem-solving.svg",
       "PackagePath": "staticwebassets\\assets\\images\\education-page\\problem-solving.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\education-page\\robotics.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\education-page\\robotics.svg",
       "PackagePath": "staticwebassets\\assets\\images\\education-page\\robotics.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\education-page\\timeline-1.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\education-page\\timeline-1.svg",
       "PackagePath": "staticwebassets\\assets\\images\\education-page\\timeline-1.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\education-page\\timeline-2.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\education-page\\timeline-2.svg",
       "PackagePath": "staticwebassets\\assets\\images\\education-page\\timeline-2.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\education-page\\udacity.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\education-page\\udacity.svg",
       "PackagePath": "staticwebassets\\assets\\images\\education-page\\udacity.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\education-page\\udemy.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\education-page\\udemy.svg",
       "PackagePath": "staticwebassets\\assets\\images\\education-page\\udemy.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\education-page\\udemy2.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\education-page\\udemy2.svg",
       "PackagePath": "staticwebassets\\assets\\images\\education-page\\udemy2.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\event\\image1.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\event\\image1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\event\\image1.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\event\\image2.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\event\\image2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\event\\image2.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\event\\image3.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\event\\image3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\event\\image3.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\event\\image4.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\event\\image4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\event\\image4.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\event\\image5.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\event\\image5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\event\\image5.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\event\\image6.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\event\\image6.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\event\\image6.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\event\\image7.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\event\\image7.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\event\\image7.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\event\\image8.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\event\\image8.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\event\\image8.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\experience-page\\1.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\experience-page\\1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\experience-page\\1.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\experience-page\\2.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\experience-page\\2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\experience-page\\2.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\experience-page\\3.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\experience-page\\3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\experience-page\\3.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\experience-page\\4.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\experience-page\\4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\experience-page\\4.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\experience-page\\5.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\experience-page\\5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\experience-page\\5.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\experience-page\\6.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\experience-page\\6.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\experience-page\\6.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\experience-page\\IIT_Bombay.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\experience-page\\IIT_Bombay.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\experience-page\\IIT_Bombay.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\experience-page\\ISI.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\experience-page\\ISI.png",
       "PackagePath": "staticwebassets\\assets\\images\\experience-page\\ISI.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\experience-page\\UCL.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\experience-page\\UCL.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\experience-page\\UCL.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\experience-page\\atlas.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\experience-page\\atlas.png",
       "PackagePath": "staticwebassets\\assets\\images\\experience-page\\atlas.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\experience-page\\citro.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\experience-page\\citro.png",
       "PackagePath": "staticwebassets\\assets\\images\\experience-page\\citro.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\experience-page\\elevate.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\experience-page\\elevate.png",
       "PackagePath": "staticwebassets\\assets\\images\\experience-page\\elevate.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\experience-page\\experience.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\experience-page\\experience.svg",
       "PackagePath": "staticwebassets\\assets\\images\\experience-page\\experience.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\experience-page\\flipkart.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\experience-page\\flipkart.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\experience-page\\flipkart.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\experience-page\\gsoc.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\experience-page\\gsoc.png",
       "PackagePath": "staticwebassets\\assets\\images\\experience-page\\gsoc.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\experience-page\\hack3.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\experience-page\\hack3.png",
       "PackagePath": "staticwebassets\\assets\\images\\experience-page\\hack3.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\experience-page\\hackasolution.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\experience-page\\hackasolution.png",
       "PackagePath": "staticwebassets\\assets\\images\\experience-page\\hackasolution.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\experience-page\\hakin.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\experience-page\\hakin.png",
       "PackagePath": "staticwebassets\\assets\\images\\experience-page\\hakin.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\experience-page\\jithack.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\experience-page\\jithack.png",
       "PackagePath": "staticwebassets\\assets\\images\\experience-page\\jithack.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\experience-page\\lema-labs.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\experience-page\\lema-labs.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\experience-page\\lema-labs.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\experience-page\\lema-labs.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\experience-page\\lema-labs.png",
       "PackagePath": "staticwebassets\\assets\\images\\experience-page\\lema-labs.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\experience-page\\mission.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\experience-page\\mission.png",
       "PackagePath": "staticwebassets\\assets\\images\\experience-page\\mission.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\experience-page\\neo.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\experience-page\\neo.png",
       "PackagePath": "staticwebassets\\assets\\images\\experience-page\\neo.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\experience-page\\nhacks.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\experience-page\\nhacks.png",
       "PackagePath": "staticwebassets\\assets\\images\\experience-page\\nhacks.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\experience-page\\pitchteen.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\experience-page\\pitchteen.png",
       "PackagePath": "staticwebassets\\assets\\images\\experience-page\\pitchteen.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\experience-page\\recess.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\experience-page\\recess.png",
       "PackagePath": "staticwebassets\\assets\\images\\experience-page\\recess.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\experience-page\\ulhacks.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\experience-page\\ulhacks.png",
       "PackagePath": "staticwebassets\\assets\\images\\experience-page\\ulhacks.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\experience-page\\uniglobe.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\experience-page\\uniglobe.png",
       "PackagePath": "staticwebassets\\assets\\images\\experience-page\\uniglobe.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\experience-page\\uplift.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\experience-page\\uplift.png",
       "PackagePath": "staticwebassets\\assets\\images\\experience-page\\uplift.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\experience-page\\wafflehacks.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\experience-page\\wafflehacks.png",
       "PackagePath": "staticwebassets\\assets\\images\\experience-page\\wafflehacks.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\favicon.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\favicon.png",
       "PackagePath": "staticwebassets\\assets\\images\\favicon.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\folded.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\folded.png",
       "PackagePath": "staticwebassets\\assets\\images\\folded.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\home\\resume.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\home\\resume.png",
       "PackagePath": "staticwebassets\\assets\\images\\home\\resume.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\light_mode.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\light_mode.png",
       "PackagePath": "staticwebassets\\assets\\images\\light_mode.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\project-page\\autovaidya.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\project-page\\autovaidya.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\project-page\\autovaidya.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\project-page\\battery.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\project-page\\battery.png",
       "PackagePath": "staticwebassets\\assets\\images\\project-page\\battery.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\project-page\\book.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\project-page\\book.png",
       "PackagePath": "staticwebassets\\assets\\images\\project-page\\book.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\project-page\\chess.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\project-page\\chess.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\project-page\\chess.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\project-page\\deepholi.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\project-page\\deepholi.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\project-page\\deepholi.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\project-page\\doc2pen.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\project-page\\doc2pen.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\project-page\\doc2pen.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\project-page\\exercise.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\project-page\\exercise.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\project-page\\exercise.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\project-page\\flappybird.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\project-page\\flappybird.png",
       "PackagePath": "staticwebassets\\assets\\images\\project-page\\flappybird.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\project-page\\header-female.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\project-page\\header-female.svg",
       "PackagePath": "staticwebassets\\assets\\images\\project-page\\header-female.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\project-page\\header-male.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\project-page\\header-male.svg",
       "PackagePath": "staticwebassets\\assets\\images\\project-page\\header-male.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\project-page\\minesweeper.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\project-page\\minesweeper.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\project-page\\minesweeper.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\project-page\\movie-recommendation.jpeg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\project-page\\movie-recommendation.jpeg",
       "PackagePath": "staticwebassets\\assets\\images\\project-page\\movie-recommendation.jpeg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\project-page\\music.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\project-page\\music.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\project-page\\music.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\project-page\\poker.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\project-page\\poker.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\project-page\\poker.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\project-page\\project-card.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\project-page\\project-card.svg",
       "PackagePath": "staticwebassets\\assets\\images\\project-page\\project-card.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\project-page\\quiz.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\project-page\\quiz.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\project-page\\quiz.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\project-page\\recipe.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\project-page\\recipe.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\project-page\\recipe.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\project-page\\tic-tac-toe.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\project-page\\tic-tac-toe.png",
       "PackagePath": "staticwebassets\\assets\\images\\project-page\\tic-tac-toe.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\references-page\\referencesvg.svg (1).svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\references-page\\referencesvg.svg (1).svg",
       "PackagePath": "staticwebassets\\assets\\images\\references-page\\referencesvg.svg (1).svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\references-page\\referencesvg.svg.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\references-page\\referencesvg.svg.svg",
       "PackagePath": "staticwebassets\\assets\\images\\references-page\\referencesvg.svg.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\references-page\\reviewphoto1.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\references-page\\reviewphoto1.png",
       "PackagePath": "staticwebassets\\assets\\images\\references-page\\reviewphoto1.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\references-page\\reviewphoto2.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\references-page\\reviewphoto2.png",
       "PackagePath": "staticwebassets\\assets\\images\\references-page\\reviewphoto2.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\references-page\\reviewphoto3.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\references-page\\reviewphoto3.png",
       "PackagePath": "staticwebassets\\assets\\images\\references-page\\reviewphoto3.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\references-page\\reviewphoto4.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\references-page\\reviewphoto4.png",
       "PackagePath": "staticwebassets\\assets\\images\\references-page\\reviewphoto4.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\references-page\\reviewphoto5.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\references-page\\reviewphoto5.png",
       "PackagePath": "staticwebassets\\assets\\images\\references-page\\reviewphoto5.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\references-page\\team.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\references-page\\team.png",
       "PackagePath": "staticwebassets\\assets\\images\\references-page\\team.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\research-page\\crossLingual.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\research-page\\crossLingual.png",
       "PackagePath": "staticwebassets\\assets\\images\\research-page\\crossLingual.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\research-page\\deepNetwork.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\research-page\\deepNetwork.png",
       "PackagePath": "staticwebassets\\assets\\images\\research-page\\deepNetwork.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\research-page\\dialogueState.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\research-page\\dialogueState.png",
       "PackagePath": "staticwebassets\\assets\\images\\research-page\\dialogueState.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\research-page\\imageDecomposition.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\research-page\\imageDecomposition.png",
       "PackagePath": "staticwebassets\\assets\\images\\research-page\\imageDecomposition.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\research-page\\inteferenceNetwork.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\research-page\\inteferenceNetwork.png",
       "PackagePath": "staticwebassets\\assets\\images\\research-page\\inteferenceNetwork.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\research-page\\neuralNetworks.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\research-page\\neuralNetworks.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\research-page\\neuralNetworks.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\research-page\\research.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\research-page\\research.svg",
       "PackagePath": "staticwebassets\\assets\\images\\research-page\\research.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\research-page\\research1.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\research-page\\research1.svg",
       "PackagePath": "staticwebassets\\assets\\images\\research-page\\research1.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\research-page\\semanticSegmentation.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\research-page\\semanticSegmentation.png",
       "PackagePath": "staticwebassets\\assets\\images\\research-page\\semanticSegmentation.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\research-page\\wordRepresentation.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\research-page\\wordRepresentation.png",
       "PackagePath": "staticwebassets\\assets\\images\\research-page\\wordRepresentation.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\sem\\sem1\\chemistrymentee.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\sem\\sem1\\chemistrymentee.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\sem\\sem1\\chemistrymentee.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\sem\\sem1\\graduation.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\sem\\sem1\\graduation.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\sem\\sem1\\graduation.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\sem\\sem1\\groomingspeech.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\sem\\sem1\\groomingspeech.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\sem\\sem1\\groomingspeech.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\sem\\sem1\\teamcamping.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\sem\\sem1\\teamcamping.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\sem\\sem1\\teamcamping.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\sem\\sem1\\uxresearch.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\sem\\sem1\\uxresearch.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\sem\\sem1\\uxresearch.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\techstack-page\\bootstrap.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\techstack-page\\bootstrap.png",
       "PackagePath": "staticwebassets\\assets\\images\\techstack-page\\bootstrap.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\techstack-page\\c.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\techstack-page\\c.png",
       "PackagePath": "staticwebassets\\assets\\images\\techstack-page\\c.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\techstack-page\\cpp.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\techstack-page\\cpp.png",
       "PackagePath": "staticwebassets\\assets\\images\\techstack-page\\cpp.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\techstack-page\\css.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\techstack-page\\css.png",
       "PackagePath": "staticwebassets\\assets\\images\\techstack-page\\css.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\techstack-page\\git.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\techstack-page\\git.png",
       "PackagePath": "staticwebassets\\assets\\images\\techstack-page\\git.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\techstack-page\\html.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\techstack-page\\html.png",
       "PackagePath": "staticwebassets\\assets\\images\\techstack-page\\html.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\techstack-page\\javascript.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\techstack-page\\javascript.png",
       "PackagePath": "staticwebassets\\assets\\images\\techstack-page\\javascript.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\techstack-page\\node.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\techstack-page\\node.png",
       "PackagePath": "staticwebassets\\assets\\images\\techstack-page\\node.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\techstack-page\\python.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\techstack-page\\python.png",
       "PackagePath": "staticwebassets\\assets\\images\\techstack-page\\python.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\techstack-page\\react.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\techstack-page\\react.png",
       "PackagePath": "staticwebassets\\assets\\images\\techstack-page\\react.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\travel\\hero.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\travel\\hero.svg",
       "PackagePath": "staticwebassets\\assets\\images\\travel\\hero.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\travel\\trip1\\lotus_temple.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\travel\\trip1\\lotus_temple.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\travel\\trip1\\lotus_temple.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\travel\\trip1\\national_zoological_park.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\travel\\trip1\\national_zoological_park.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\travel\\trip1\\national_zoological_park.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\travel\\trip1\\old_fort.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\travel\\trip1\\old_fort.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\travel\\trip1\\old_fort.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\travel\\trip1\\qutub_minar.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\travel\\trip1\\qutub_minar.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\travel\\trip1\\qutub_minar.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\travel\\trip1\\red_fort.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\travel\\trip1\\red_fort.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\travel\\trip1\\red_fort.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\images\\travel\\trip1\\street.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\images\\travel\\trip1\\street.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\travel\\trip1\\street.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\js\\404.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\js\\404.js",
       "PackagePath": "staticwebassets\\assets\\js\\404.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\js\\app.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\js\\app.js",
       "PackagePath": "staticwebassets\\assets\\js\\app.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\js\\cursor.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\js\\cursor.js",
       "PackagePath": "staticwebassets\\assets\\js\\cursor.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\js\\dynamicTitle.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\js\\dynamicTitle.js",
       "PackagePath": "staticwebassets\\assets\\js\\dynamicTitle.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\js\\education.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\js\\education.js",
       "PackagePath": "staticwebassets\\assets\\js\\education.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\js\\event.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\js\\event.js",
       "PackagePath": "staticwebassets\\assets\\js\\event.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\js\\experience.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\js\\experience.js",
       "PackagePath": "staticwebassets\\assets\\js\\experience.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\js\\particle.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\js\\particle.js",
       "PackagePath": "staticwebassets\\assets\\js\\particle.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\js\\particles.min.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\js\\particles.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\particles.min.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\js\\project.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\js\\project.js",
       "PackagePath": "staticwebassets\\assets\\js\\project.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\js\\references.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\js\\references.js",
       "PackagePath": "staticwebassets\\assets\\js\\references.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\js\\research.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\js\\research.js",
       "PackagePath": "staticwebassets\\assets\\js\\research.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\js\\sem_temp.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\js\\sem_temp.js",
       "PackagePath": "staticwebassets\\assets\\js\\sem_temp.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\js\\techstack.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\js\\techstack.js",
       "PackagePath": "staticwebassets\\assets\\js\\techstack.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\assets\\js\\travel_temp.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\assets\\js\\travel_temp.js",
       "PackagePath": "staticwebassets\\assets\\js\\travel_temp.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\css\\site.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\favicon.ico",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\js\\site.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\css\\main.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\css\\main.css",
       "PackagePath": "staticwebassets\\theme\\css\\main.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\css\\responsive.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\css\\responsive.css",
       "PackagePath": "staticwebassets\\theme\\css\\responsive.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\css\\vendor\\bootstrap-slider.min.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\css\\vendor\\bootstrap-slider.min.css",
       "PackagePath": "staticwebassets\\theme\\css\\vendor\\bootstrap-slider.min.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\css\\vendor\\bootstrap.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\css\\vendor\\bootstrap.css",
       "PackagePath": "staticwebassets\\theme\\css\\vendor\\bootstrap.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\css\\vendor\\font-awesome.min.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\css\\vendor\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\theme\\css\\vendor\\font-awesome.min.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\css\\vendor\\jquery.jqZoom.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\css\\vendor\\jquery.jqZoom.css",
       "PackagePath": "staticwebassets\\theme\\css\\vendor\\jquery.jqZoom.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\css\\vendor\\lightgallery.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\css\\vendor\\lightgallery.css",
       "PackagePath": "staticwebassets\\theme\\css\\vendor\\lightgallery.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\css\\vendor\\materialdesignicons.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\css\\vendor\\materialdesignicons.css",
       "PackagePath": "staticwebassets\\theme\\css\\vendor\\materialdesignicons.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\css\\vendor\\nice-select.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\css\\vendor\\nice-select.css",
       "PackagePath": "staticwebassets\\theme\\css\\vendor\\nice-select.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\css\\vendor\\noUISlider.min.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\css\\vendor\\noUISlider.min.css",
       "PackagePath": "staticwebassets\\theme\\css\\vendor\\noUISlider.min.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\css\\vendor\\owl.carousel.min.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\css\\vendor\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\theme\\css\\vendor\\owl.carousel.min.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\css\\vendor\\sweetalert2.min.css",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\css\\vendor\\sweetalert2.min.css",
       "PackagePath": "staticwebassets\\theme\\css\\vendor\\sweetalert2.min.css"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\fonts\\IRANSans\\eot\\IRANSansWeb.eot",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\fonts\\IRANSans\\eot\\IRANSansWeb.eot",
       "PackagePath": "staticwebassets\\theme\\fonts\\IRANSans\\eot\\IRANSansWeb.eot"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\fonts\\IRANSans\\eot\\IRANSansWeb_Black.eot",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\fonts\\IRANSans\\eot\\IRANSansWeb_Black.eot",
       "PackagePath": "staticwebassets\\theme\\fonts\\IRANSans\\eot\\IRANSansWeb_Black.eot"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\fonts\\IRANSans\\eot\\IRANSansWeb_Bold.eot",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\fonts\\IRANSans\\eot\\IRANSansWeb_Bold.eot",
       "PackagePath": "staticwebassets\\theme\\fonts\\IRANSans\\eot\\IRANSansWeb_Bold.eot"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\fonts\\IRANSans\\eot\\IRANSansWeb_Light.eot",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\fonts\\IRANSans\\eot\\IRANSansWeb_Light.eot",
       "PackagePath": "staticwebassets\\theme\\fonts\\IRANSans\\eot\\IRANSansWeb_Light.eot"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\fonts\\IRANSans\\eot\\IRANSansWeb_Medium.eot",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\fonts\\IRANSans\\eot\\IRANSansWeb_Medium.eot",
       "PackagePath": "staticwebassets\\theme\\fonts\\IRANSans\\eot\\IRANSansWeb_Medium.eot"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\fonts\\IRANSans\\eot\\IRANSansWeb_UltraLight.eot",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\fonts\\IRANSans\\eot\\IRANSansWeb_UltraLight.eot",
       "PackagePath": "staticwebassets\\theme\\fonts\\IRANSans\\eot\\IRANSansWeb_UltraLight.eot"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\fonts\\IRANSans\\ttf\\IRANSansWeb.ttf",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\fonts\\IRANSans\\ttf\\IRANSansWeb.ttf",
       "PackagePath": "staticwebassets\\theme\\fonts\\IRANSans\\ttf\\IRANSansWeb.ttf"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\fonts\\IRANSans\\ttf\\IRANSansWeb_Black.ttf",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\fonts\\IRANSans\\ttf\\IRANSansWeb_Black.ttf",
       "PackagePath": "staticwebassets\\theme\\fonts\\IRANSans\\ttf\\IRANSansWeb_Black.ttf"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\fonts\\IRANSans\\ttf\\IRANSansWeb_Bold.ttf",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\fonts\\IRANSans\\ttf\\IRANSansWeb_Bold.ttf",
       "PackagePath": "staticwebassets\\theme\\fonts\\IRANSans\\ttf\\IRANSansWeb_Bold.ttf"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\fonts\\IRANSans\\ttf\\IRANSansWeb_Light.ttf",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\fonts\\IRANSans\\ttf\\IRANSansWeb_Light.ttf",
       "PackagePath": "staticwebassets\\theme\\fonts\\IRANSans\\ttf\\IRANSansWeb_Light.ttf"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\fonts\\IRANSans\\ttf\\IRANSansWeb_Medium.ttf",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\fonts\\IRANSans\\ttf\\IRANSansWeb_Medium.ttf",
       "PackagePath": "staticwebassets\\theme\\fonts\\IRANSans\\ttf\\IRANSansWeb_Medium.ttf"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\fonts\\IRANSans\\ttf\\IRANSansWeb_UltraLight.ttf",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\fonts\\IRANSans\\ttf\\IRANSansWeb_UltraLight.ttf",
       "PackagePath": "staticwebassets\\theme\\fonts\\IRANSans\\ttf\\IRANSansWeb_UltraLight.ttf"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\fonts\\IRANSans\\woff2\\IRANSansWeb.woff2",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\fonts\\IRANSans\\woff2\\IRANSansWeb.woff2",
       "PackagePath": "staticwebassets\\theme\\fonts\\IRANSans\\woff2\\IRANSansWeb.woff2"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\fonts\\IRANSans\\woff2\\IRANSansWeb_Black.woff2",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\fonts\\IRANSans\\woff2\\IRANSansWeb_Black.woff2",
       "PackagePath": "staticwebassets\\theme\\fonts\\IRANSans\\woff2\\IRANSansWeb_Black.woff2"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\fonts\\IRANSans\\woff2\\IRANSansWeb_Bold.woff2",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\fonts\\IRANSans\\woff2\\IRANSansWeb_Bold.woff2",
       "PackagePath": "staticwebassets\\theme\\fonts\\IRANSans\\woff2\\IRANSansWeb_Bold.woff2"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\fonts\\IRANSans\\woff2\\IRANSansWeb_Light.woff2",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\fonts\\IRANSans\\woff2\\IRANSansWeb_Light.woff2",
       "PackagePath": "staticwebassets\\theme\\fonts\\IRANSans\\woff2\\IRANSansWeb_Light.woff2"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\fonts\\IRANSans\\woff2\\IRANSansWeb_Medium.woff2",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\fonts\\IRANSans\\woff2\\IRANSansWeb_Medium.woff2",
       "PackagePath": "staticwebassets\\theme\\fonts\\IRANSans\\woff2\\IRANSansWeb_Medium.woff2"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\fonts\\IRANSans\\woff2\\IRANSansWeb_UltraLight.woff2",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\fonts\\IRANSans\\woff2\\IRANSansWeb_UltraLight.woff2",
       "PackagePath": "staticwebassets\\theme\\fonts\\IRANSans\\woff2\\IRANSansWeb_UltraLight.woff2"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\fonts\\IRANSans\\woff\\IRANSansWeb.woff",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\fonts\\IRANSans\\woff\\IRANSansWeb.woff",
       "PackagePath": "staticwebassets\\theme\\fonts\\IRANSans\\woff\\IRANSansWeb.woff"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\fonts\\IRANSans\\woff\\IRANSansWeb_Black.woff",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\fonts\\IRANSans\\woff\\IRANSansWeb_Black.woff",
       "PackagePath": "staticwebassets\\theme\\fonts\\IRANSans\\woff\\IRANSansWeb_Black.woff"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\fonts\\IRANSans\\woff\\IRANSansWeb_Bold.woff",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\fonts\\IRANSans\\woff\\IRANSansWeb_Bold.woff",
       "PackagePath": "staticwebassets\\theme\\fonts\\IRANSans\\woff\\IRANSansWeb_Bold.woff"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\fonts\\IRANSans\\woff\\IRANSansWeb_Light.woff",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\fonts\\IRANSans\\woff\\IRANSansWeb_Light.woff",
       "PackagePath": "staticwebassets\\theme\\fonts\\IRANSans\\woff\\IRANSansWeb_Light.woff"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\fonts\\IRANSans\\woff\\IRANSansWeb_Medium.woff",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\fonts\\IRANSans\\woff\\IRANSansWeb_Medium.woff",
       "PackagePath": "staticwebassets\\theme\\fonts\\IRANSans\\woff\\IRANSansWeb_Medium.woff"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\fonts\\IRANSans\\woff\\IRANSansWeb_UltraLight.woff",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\fonts\\IRANSans\\woff\\IRANSansWeb_UltraLight.woff",
       "PackagePath": "staticwebassets\\theme\\fonts\\IRANSans\\woff\\IRANSansWeb_UltraLight.woff"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\fonts\\fontawesome-webfont.eot",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\theme\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\fonts\\fontawesome-webfont.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\theme\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\fonts\\fontawesome-webfont.ttf",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\theme\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\fonts\\fontawesome-webfont.woff",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\theme\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\fonts\\fontawesome-webfont.woff2",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\theme\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\fonts\\lightgallery\\lg.eot",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\fonts\\lightgallery\\lg.eot",
       "PackagePath": "staticwebassets\\theme\\fonts\\lightgallery\\lg.eot"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\fonts\\lightgallery\\lg.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\fonts\\lightgallery\\lg.svg",
       "PackagePath": "staticwebassets\\theme\\fonts\\lightgallery\\lg.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\fonts\\lightgallery\\lg.ttf",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\fonts\\lightgallery\\lg.ttf",
       "PackagePath": "staticwebassets\\theme\\fonts\\lightgallery\\lg.ttf"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\fonts\\lightgallery\\lg.woff",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\fonts\\lightgallery\\lg.woff",
       "PackagePath": "staticwebassets\\theme\\fonts\\lightgallery\\lg.woff"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\fonts\\materialdesignicons-webfont.eot",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\fonts\\materialdesignicons-webfont.eot",
       "PackagePath": "staticwebassets\\theme\\fonts\\materialdesignicons-webfont.eot"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\fonts\\materialdesignicons-webfont.ttf",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\fonts\\materialdesignicons-webfont.ttf",
       "PackagePath": "staticwebassets\\theme\\fonts\\materialdesignicons-webfont.ttf"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\fonts\\materialdesignicons-webfont.woff",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\fonts\\materialdesignicons-webfont.woff",
       "PackagePath": "staticwebassets\\theme\\fonts\\materialdesignicons-webfont.woff"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\fonts\\materialdesignicons-webfont.woff2",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\fonts\\materialdesignicons-webfont.woff2",
       "PackagePath": "staticwebassets\\theme\\fonts\\materialdesignicons-webfont.woff2"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\404.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\404.png",
       "PackagePath": "staticwebassets\\theme\\images\\404.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\adplacement\\a-1.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\adplacement\\a-1.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\adplacement\\a-1.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\adplacement\\a-10.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\adplacement\\a-10.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\adplacement\\a-10.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\adplacement\\a-11.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\adplacement\\a-11.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\adplacement\\a-11.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\adplacement\\a-12.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\adplacement\\a-12.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\adplacement\\a-12.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\adplacement\\a-2.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\adplacement\\a-2.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\adplacement\\a-2.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\adplacement\\a-3.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\adplacement\\a-3.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\adplacement\\a-3.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\adplacement\\a-4.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\adplacement\\a-4.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\adplacement\\a-4.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\adplacement\\a-5.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\adplacement\\a-5.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\adplacement\\a-5.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\adplacement\\a-6.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\adplacement\\a-6.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\adplacement\\a-6.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\adplacement\\a-7.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\adplacement\\a-7.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\adplacement\\a-7.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\adplacement\\a-8.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\adplacement\\a-8.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\adplacement\\a-8.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\adplacement\\a-9.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\adplacement\\a-9.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\adplacement\\a-9.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\blog\\2017 Home Selling Results.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\blog\\2017 Home Selling Results.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\blog\\2017 Home Selling Results.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\blog\\fortnite-battle-royale-iphone.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\blog\\fortnite-battle-royale-iphone.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\blog\\fortnite-battle-royale-iphone.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\blog\\fortnite-battle-royale-money-revenue-earnings-2018-how-much.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\blog\\fortnite-battle-royale-money-revenue-earnings-2018-how-much.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\blog\\fortnite-battle-royale-money-revenue-earnings-2018-how-much.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\blog\\inRqLEr.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\blog\\inRqLEr.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\blog\\inRqLEr.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\blog\\iphone-7-plus-water-damage-repair-.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\blog\\iphone-7-plus-water-damage-repair-.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\blog\\iphone-7-plus-water-damage-repair-.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\blog\\shutterstock.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\blog\\shutterstock.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\blog\\shutterstock.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\blog\\women-calligrapher-in-cozy-home-working.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\blog\\women-calligrapher-in-cozy-home-working.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\blog\\women-calligrapher-in-cozy-home-working.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\brand\\adata.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\brand\\adata.png",
       "PackagePath": "staticwebassets\\theme\\images\\brand\\adata.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\brand\\huawei.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\brand\\huawei.png",
       "PackagePath": "staticwebassets\\theme\\images\\brand\\huawei.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\brand\\nokia.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\brand\\nokia.png",
       "PackagePath": "staticwebassets\\theme\\images\\brand\\nokia.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\brand\\panasonic.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\brand\\panasonic.png",
       "PackagePath": "staticwebassets\\theme\\images\\brand\\panasonic.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\brand\\parskhazar.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\brand\\parskhazar.png",
       "PackagePath": "staticwebassets\\theme\\images\\brand\\parskhazar.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\brand\\samsung.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\brand\\samsung.png",
       "PackagePath": "staticwebassets\\theme\\images\\brand\\samsung.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\brand\\shahab.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\brand\\shahab.png",
       "PackagePath": "staticwebassets\\theme\\images\\brand\\shahab.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\brand\\xvison.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\brand\\xvison.png",
       "PackagePath": "staticwebassets\\theme\\images\\brand\\xvison.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\cover\\4k-vs-1080p-laptops-scaled.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\cover\\4k-vs-1080p-laptops-scaled.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\cover\\4k-vs-1080p-laptops-scaled.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\elementor\\Photography-Camera-HD-Wallpaper2.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\elementor\\Photography-Camera-HD-Wallpaper2.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\elementor\\Photography-Camera-HD-Wallpaper2.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\elementor\\samsung-galaxy-tab-s6.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\elementor\\samsung-galaxy-tab-s6.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\elementor\\samsung-galaxy-tab-s6.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\footer\\features\\24-hours-support.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\footer\\features\\24-hours-support.svg",
       "PackagePath": "staticwebassets\\theme\\images\\footer\\features\\24-hours-support.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\footer\\features\\delivery-truck.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\footer\\features\\delivery-truck.svg",
       "PackagePath": "staticwebassets\\theme\\images\\footer\\features\\delivery-truck.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\footer\\features\\easy-return.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\footer\\features\\easy-return.svg",
       "PackagePath": "staticwebassets\\theme\\images\\footer\\features\\easy-return.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\footer\\features\\income.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\footer\\features\\income.svg",
       "PackagePath": "staticwebassets\\theme\\images\\footer\\features\\income.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\footer\\features\\original.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\footer\\features\\original.svg",
       "PackagePath": "staticwebassets\\theme\\images\\footer\\features\\original.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\footer\\license\\L-1.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\footer\\license\\L-1.png",
       "PackagePath": "staticwebassets\\theme\\images\\footer\\license\\L-1.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\footer\\license\\L-2.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\footer\\license\\L-2.png",
       "PackagePath": "staticwebassets\\theme\\images\\footer\\license\\L-2.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\loading.gif",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\loading.gif",
       "PackagePath": "staticwebassets\\theme\\images\\loading.gif"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\logo.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\logo.png",
       "PackagePath": "staticwebassets\\theme\\images\\logo.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\man.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\man.png",
       "PackagePath": "staticwebassets\\theme\\images\\man.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\menu-main\\category\\child.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\menu-main\\category\\child.png",
       "PackagePath": "staticwebassets\\theme\\images\\menu-main\\category\\child.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\menu-main\\category\\cup.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\menu-main\\category\\cup.png",
       "PackagePath": "staticwebassets\\theme\\images\\menu-main\\category\\cup.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\menu-main\\category\\edit.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\menu-main\\category\\edit.png",
       "PackagePath": "staticwebassets\\theme\\images\\menu-main\\category\\edit.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\menu-main\\category\\home.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\menu-main\\category\\home.png",
       "PackagePath": "staticwebassets\\theme\\images\\menu-main\\category\\home.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\menu-main\\category\\makeup.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\menu-main\\category\\makeup.png",
       "PackagePath": "staticwebassets\\theme\\images\\menu-main\\category\\makeup.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\menu-main\\category\\print.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\menu-main\\category\\print.png",
       "PackagePath": "staticwebassets\\theme\\images\\menu-main\\category\\print.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\menu-main\\category\\smartphone.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\menu-main\\category\\smartphone.png",
       "PackagePath": "staticwebassets\\theme\\images\\menu-main\\category\\smartphone.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\menu-main\\category\\suit.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\menu-main\\category\\suit.png",
       "PackagePath": "staticwebassets\\theme\\images\\menu-main\\category\\suit.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\menu-main\\cosmetic.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\menu-main\\cosmetic.png",
       "PackagePath": "staticwebassets\\theme\\images\\menu-main\\cosmetic.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\menu-main\\digital.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\menu-main\\digital.png",
       "PackagePath": "staticwebassets\\theme\\images\\menu-main\\digital.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\menu-main\\img-card-2.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\menu-main\\img-card-2.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\menu-main\\img-card-2.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\menu-main\\img-card.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\menu-main\\img-card.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\menu-main\\img-card.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\menu-main\\kitchen.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\menu-main\\kitchen.png",
       "PackagePath": "staticwebassets\\theme\\images\\menu-main\\kitchen.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\page-faq\\100000040.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\page-faq\\100000040.png",
       "PackagePath": "staticwebassets\\theme\\images\\page-faq\\100000040.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\page-faq\\add-group.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\page-faq\\add-group.png",
       "PackagePath": "staticwebassets\\theme\\images\\page-faq\\add-group.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\page-faq\\gift.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\page-faq\\gift.png",
       "PackagePath": "staticwebassets\\theme\\images\\page-faq\\gift.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\page-faq\\market.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\page-faq\\market.png",
       "PackagePath": "staticwebassets\\theme\\images\\page-faq\\market.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\page-faq\\open-box.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\page-faq\\open-box.png",
       "PackagePath": "staticwebassets\\theme\\images\\page-faq\\open-box.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\page-faq\\other.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\page-faq\\other.png",
       "PackagePath": "staticwebassets\\theme\\images\\page-faq\\other.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\page-faq\\other.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\page-faq\\other.svg",
       "PackagePath": "staticwebassets\\theme\\images\\page-faq\\other.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\page-faq\\return.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\page-faq\\return.png",
       "PackagePath": "staticwebassets\\theme\\images\\page-faq\\return.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\page-faq\\sport-team.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\page-faq\\sport-team.png",
       "PackagePath": "staticwebassets\\theme\\images\\page-faq\\sport-team.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\page-faq\\tracking.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\page-faq\\tracking.png",
       "PackagePath": "staticwebassets\\theme\\images\\page-faq\\tracking.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\page-faq\\transparency.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\page-faq\\transparency.png",
       "PackagePath": "staticwebassets\\theme\\images\\page-faq\\transparency.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\page-single-product\\contact-us.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\page-single-product\\contact-us.svg",
       "PackagePath": "staticwebassets\\theme\\images\\page-single-product\\contact-us.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\page-single-product\\delivery.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\page-single-product\\delivery.svg",
       "PackagePath": "staticwebassets\\theme\\images\\page-single-product\\delivery.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\page-single-product\\origin-guarantee.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\page-single-product\\origin-guarantee.svg",
       "PackagePath": "staticwebassets\\theme\\images\\page-single-product\\origin-guarantee.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\page-single-product\\payment-terms.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\page-single-product\\payment-terms.svg",
       "PackagePath": "staticwebassets\\theme\\images\\page-single-product\\payment-terms.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\page-single-product\\product-img\\product-img-note10-big-1.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\page-single-product\\product-img\\product-img-note10-big-1.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\page-single-product\\product-img\\product-img-note10-big-1.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\page-single-product\\product-img\\product-img-note10-big-2.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\page-single-product\\product-img\\product-img-note10-big-2.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\page-single-product\\product-img\\product-img-note10-big-2.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\page-single-product\\product-img\\product-img-note10-big-3.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\page-single-product\\product-img\\product-img-note10-big-3.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\page-single-product\\product-img\\product-img-note10-big-3.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\page-single-product\\product-img\\product-img-note10-big-4.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\page-single-product\\product-img\\product-img-note10-big-4.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\page-single-product\\product-img\\product-img-note10-big-4.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\page-single-product\\product-img\\product-img-note10-big-5.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\page-single-product\\product-img\\product-img-note10-big-5.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\page-single-product\\product-img\\product-img-note10-big-5.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\page-single-product\\product-img\\product-img-note10-big-6.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\page-single-product\\product-img\\product-img-note10-big-6.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\page-single-product\\product-img\\product-img-note10-big-6.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\page-single-product\\product-img\\product-img-note10-big-7.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\page-single-product\\product-img\\product-img-note10-big-7.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\page-single-product\\product-img\\product-img-note10-big-7.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\page-single-product\\product-img\\product-img-note10.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\page-single-product\\product-img\\product-img-note10.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\page-single-product\\product-img\\product-img-note10.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\page-single-product\\return-policy.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\page-single-product\\return-policy.svg",
       "PackagePath": "staticwebassets\\theme\\images\\page-single-product\\return-policy.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\page-single-product\\tab-content\\note10-1.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\page-single-product\\tab-content\\note10-1.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\page-single-product\\tab-content\\note10-1.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\page-single-product\\tab-content\\note10-2.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\page-single-product\\tab-content\\note10-2.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\page-single-product\\tab-content\\note10-2.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\page-single-product\\tab-content\\note10-3.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\page-single-product\\tab-content\\note10-3.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\page-single-product\\tab-content\\note10-3.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\page-single-product\\tab-content\\note10-4.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\page-single-product\\tab-content\\note10-4.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\page-single-product\\tab-content\\note10-4.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\page-single-product\\tab-content\\note10-5.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\page-single-product\\tab-content\\note10-5.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\page-single-product\\tab-content\\note10-5.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\page-single-product\\tab-content\\note10-6.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\page-single-product\\tab-content\\note10-6.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\page-single-product\\tab-content\\note10-6.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\search.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\search.png",
       "PackagePath": "staticwebassets\\theme\\images\\search.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\shopping-cart.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\shopping-cart.png",
       "PackagePath": "staticwebassets\\theme\\images\\shopping-cart.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-amazing\\as-1.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-amazing\\as-1.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-amazing\\as-1.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-amazing\\as-2.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-amazing\\as-2.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-amazing\\as-2.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-amazing\\as-3.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-amazing\\as-3.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-amazing\\as-3.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-amazing\\as-4.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-amazing\\as-4.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-amazing\\as-4.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-amazing\\as-5.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-amazing\\as-5.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-amazing\\as-5.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-amazing\\shopping-cart.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-amazing\\shopping-cart.svg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-amazing\\shopping-cart.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-main\\h-4\\Huawei-P20-Pro.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-main\\h-4\\Huawei-P20-Pro.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-main\\h-4\\Huawei-P20-Pro.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-main\\h-4\\iphone-12.png",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-main\\h-4\\iphone-12.png",
       "PackagePath": "staticwebassets\\theme\\images\\slider-main\\h-4\\iphone-12.png"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-main\\h-4\\samsung_galaxy_note_20-ultra.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-main\\h-4\\samsung_galaxy_note_20-ultra.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-main\\h-4\\samsung_galaxy_note_20-ultra.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-main\\sm-1.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-main\\sm-1.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-main\\sm-1.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-main\\sm-2.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-main\\sm-2.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-main\\sm-2.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-main\\sm-3.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-main\\sm-3.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-main\\sm-3.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-main\\sm-4.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-main\\sm-4.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-main\\sm-4.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-main\\sm-5.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-main\\sm-5.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-main\\sm-5.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-moment\\sm-1.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-moment\\sm-1.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-moment\\sm-1.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-moment\\sm-2.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-moment\\sm-2.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-moment\\sm-2.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-moment\\sm-3.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-moment\\sm-3.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-moment\\sm-3.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-moment\\sm-4.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-moment\\sm-4.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-moment\\sm-4.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-moment\\sm-5.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-moment\\sm-5.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-moment\\sm-5.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-product\\Avocado.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-product\\Avocado.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-product\\Avocado.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-product\\DNR 290T-366T.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-product\\DNR 290T-366T.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-product\\DNR 290T-366T.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-product\\ECM2013.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-product\\ECM2013.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-product\\ECM2013.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-product\\Galaxy-S10-SM-G973F.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-product\\Galaxy-S10-SM-G973F.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-product\\Galaxy-S10-SM-G973F.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-product\\P-Smart-2019.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-product\\P-Smart-2019.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-product\\P-Smart-2019.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-product\\SL1200_-300x300.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-product\\SL1200_-300x300.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-product\\SL1200_-300x300.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-product\\SWF-40R.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-product\\SWF-40R.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-product\\SWF-40R.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-product\\Samsung-S10Plus.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-product\\Samsung-S10Plus.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-product\\Samsung-S10Plus.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-product\\Stove-lopez.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-product\\Stove-lopez.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-product\\Stove-lopez.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-product\\asus-laptop.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-product\\asus-laptop.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-product\\asus-laptop.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-product\\boxing.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-product\\boxing.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-product\\boxing.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-product\\btt.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-product\\btt.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-product\\btt.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-product\\camera-canon-4000D.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-product\\camera-canon-4000D.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-product\\camera-canon-4000D.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-product\\camera-instax-mini-70.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-product\\camera-instax-mini-70.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-product\\camera-instax-mini-70.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-product\\camera-nikon-3500D.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-product\\camera-nikon-3500D.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-product\\camera-nikon-3500D.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-product\\camera-nikon.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-product\\camera-nikon.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-product\\camera-nikon.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-product\\camera-samsung.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-product\\camera-samsung.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-product\\camera-samsung.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-product\\computer-appel.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-product\\computer-appel.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-product\\computer-appel.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-product\\honer.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-product\\honer.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-product\\honer.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-product\\huawei-p-smart.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-product\\huawei-p-smart.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-product\\huawei-p-smart.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-product\\huawei.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-product\\huawei.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-product\\huawei.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-product\\iphone-11-pro-max.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-product\\iphone-11-pro-max.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-product\\iphone-11-pro-max.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-product\\iphone-xs-max-space.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-product\\iphone-xs-max-space.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-product\\iphone-xs-max-space.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-product\\mitbook.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-product\\mitbook.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-product\\mitbook.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-product\\t-shirt-1.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-product\\t-shirt-1.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-product\\t-shirt-1.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-product\\t-shirt-2.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-product\\t-shirt-2.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-product\\t-shirt-2.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-product\\t-shirt-3.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-product\\t-shirt-3.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-product\\t-shirt-3.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\slider-product\\zenbook.jpg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\slider-product\\zenbook.jpg",
       "PackagePath": "staticwebassets\\theme\\images\\slider-product\\zenbook.jpg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\images\\three-dots.svg",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\images\\three-dots.svg",
       "PackagePath": "staticwebassets\\theme\\images\\three-dots.svg"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\js\\main.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\js\\main.js",
       "PackagePath": "staticwebassets\\theme\\js\\main.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\js\\vendor\\ResizeSensor.min.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\js\\vendor\\ResizeSensor.min.js",
       "PackagePath": "staticwebassets\\theme\\js\\vendor\\ResizeSensor.min.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\js\\vendor\\bootstrap-slider.min.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\js\\vendor\\bootstrap-slider.min.js",
       "PackagePath": "staticwebassets\\theme\\js\\vendor\\bootstrap-slider.min.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\js\\vendor\\bootstrap.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\js\\vendor\\bootstrap.js",
       "PackagePath": "staticwebassets\\theme\\js\\vendor\\bootstrap.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\js\\vendor\\countdown.min.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\js\\vendor\\countdown.min.js",
       "PackagePath": "staticwebassets\\theme\\js\\vendor\\countdown.min.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\js\\vendor\\jquery-3.2.1.min.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\js\\vendor\\jquery-3.2.1.min.js",
       "PackagePath": "staticwebassets\\theme\\js\\vendor\\jquery-3.2.1.min.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\js\\vendor\\jquery.countdown.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\js\\vendor\\jquery.countdown.js",
       "PackagePath": "staticwebassets\\theme\\js\\vendor\\jquery.countdown.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\js\\vendor\\jquery.ez-plus.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\js\\vendor\\jquery.ez-plus.js",
       "PackagePath": "staticwebassets\\theme\\js\\vendor\\jquery.ez-plus.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\js\\vendor\\jquery.jqZoom.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\js\\vendor\\jquery.jqZoom.js",
       "PackagePath": "staticwebassets\\theme\\js\\vendor\\jquery.jqZoom.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\js\\vendor\\jquery.nice-select.min.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\js\\vendor\\jquery.nice-select.min.js",
       "PackagePath": "staticwebassets\\theme\\js\\vendor\\jquery.nice-select.min.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\js\\vendor\\lightgallery-all.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\js\\vendor\\lightgallery-all.js",
       "PackagePath": "staticwebassets\\theme\\js\\vendor\\lightgallery-all.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\js\\vendor\\nouislider.min.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\js\\vendor\\nouislider.min.js",
       "PackagePath": "staticwebassets\\theme\\js\\vendor\\nouislider.min.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\js\\vendor\\owl.carousel.min.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\js\\vendor\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\theme\\js\\vendor\\owl.carousel.min.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\js\\vendor\\sweetalert2.all.min.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\js\\vendor\\sweetalert2.all.min.js",
       "PackagePath": "staticwebassets\\theme\\js\\vendor\\sweetalert2.all.min.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\js\\vendor\\theia-sticky-sidebar.min.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\js\\vendor\\theia-sticky-sidebar.min.js",
       "PackagePath": "staticwebassets\\theme\\js\\vendor\\theia-sticky-sidebar.min.js"
     },
     {
-      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\wwwroot\\theme\\js\\vendor\\wNumb.js",
+      "Id": "E:\\programming\\StudioProjects\\kosarHospital\\kossarHospital\\wwwroot\\theme\\js\\vendor\\wNumb.js",
       "PackagePath": "staticwebassets\\theme\\js\\vendor\\wNumb.js"
     },
     {

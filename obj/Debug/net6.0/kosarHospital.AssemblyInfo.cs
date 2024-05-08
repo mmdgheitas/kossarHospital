@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("kosarHospital")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+155d05bdf74e8165913462d437caebf241f4b532")]
 [assembly: System.Reflection.AssemblyProductAttribute("kosarHospital")]
 [assembly: System.Reflection.AssemblyTitleAttribute("kosarHospital")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
